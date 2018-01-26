@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
 end
 
 def add_element_to_end_of_array(array, element)
